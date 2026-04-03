@@ -29,7 +29,7 @@ The transition from a simple linear model to a regularized model (Ridge) allowed
 | Linear Regression | 0.987 | 0.935 | Overfitting detected |
 | **Ridge Regression (α=0.01)** | **0.981** | **0.953** | **Best Model** |
 
-### 💡 Main Insights
+## 💡 Main Insights
 * **Store Location**: The specific Store ID is the most significant predictor of sales volume.
 * **CPI (Inflation)**: Showed a strong positive correlation with sales value in this specific dataset.
 * **Seasonality**: Feature engineering on dates (Month/Day) was crucial to capture sales trends.
